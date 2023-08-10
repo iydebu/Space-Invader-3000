@@ -1,6 +1,7 @@
 # Space Invader 3000 🚀
 
-![Gameplay Screenshot](https://github.com/iydebu/Space-Invader-3000/blob/main/Snapshot.PNG) <!-- Add a screenshot of your game for visual appeal. Replace 'path-to-your-screenshot.png' with the actual path to your screenshot. -->
+
+<img src="https://github.com/iydebu/Space-Invader-3000/blob/main/Snapshot.PNG" alt="Gameplay Screenshot" height="600"/>
 
 **Space Invader 3000** is a thrilling top-down space shooter game where players are challenged to navigate their spaceship, fend off waves of incoming enemy ships, and achieve the highest score possible!
 
