@@ -1,6 +1,6 @@
 # Space Invader 3000 🚀
 
-![Gameplay Screenshot](path-to-your-screenshot.png) <!-- Add a screenshot of your game for visual appeal. Replace 'path-to-your-screenshot.png' with the actual path to your screenshot. -->
+![Gameplay Screenshot](https://github.com/iydebu/Space-Invader-3000/blob/main/Snapshot.PNG) <!-- Add a screenshot of your game for visual appeal. Replace 'path-to-your-screenshot.png' with the actual path to your screenshot. -->
 
 **Space Invader 3000** is a thrilling top-down space shooter game where players are challenged to navigate their spaceship, fend off waves of incoming enemy ships, and achieve the highest score possible!
 
@@ -27,4 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Authors
 
-- **Your Name** - *Initial Work* - [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- **Devashish Tiwari** - *Initial Work* - [YourGitHubUsername](https://github.com/iydebu)
